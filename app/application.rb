@@ -14,5 +14,3 @@ class App
   end
 
 end
-
-run App.new
